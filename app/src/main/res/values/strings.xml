@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">hkakao</string>
+    <string name = "kakao_native_app_key">c48c9e7d22352738cfa269aaf52575be</string>
+</resources>
